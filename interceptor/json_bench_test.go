@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/trajber/handy"
+	"github.com/apcarneiro/handy"
 )
 
 type mockJSONHandler struct {
